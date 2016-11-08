@@ -1,0 +1,25 @@
+2.1
+#include <iostream> 
+using namespace std;
+int main()
+{
+// A crazy mixed up program 
+cout << "In 1492 Columbus sailed the ocean blue.";
+
+return 0;
+}
+
+2.2
+#include <iostream>
+using namespace std;
+int main()
+{// It's a mad, mad program
+cout << "Success\n";
+cout << "Success"; cout << " Success\n\n";
+cout << "Success\n"; 
+return 0;
+}
+
+2.5
+Variable little,big
+Literal  2 , 2000
